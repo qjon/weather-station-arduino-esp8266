@@ -119,5 +119,5 @@ Bridge has additional option. It expose HTTP server on port 80, where you can fi
 
 ## Summary
 
-More info about this project you can find on my blog.
+More info about this project you can find on my [blog](https://ignaszewski.pl/en/weather-station-code-description).
 
